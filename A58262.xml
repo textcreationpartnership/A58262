@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to His Majesty for his dispensing with the oath of allegiance as to His Highness the Duke of York, and for his sitting in the Council of Scotland without taking the said oath</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58262</idno>
+            <idno type="STC">Wing R549</idno>
+            <idno type="STC">ESTC R6513</idno>
+            <idno type="EEBO-CITATION">11893778</idno>
+            <idno type="OCLC">ocm 11893778</idno>
+            <idno type="VID">50519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 507:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to His Majesty for his dispensing with the oath of allegiance as to His Highness the Duke of York, and for his sitting in the Council of Scotland without taking the said oath</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Oaths --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50519:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <pb facs="tcp:50519:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <p>REASONS Humbly Offered TO HIS MAJESTY For His Diſpenſing with the OATH of ALLEGIANCE As to his Highneſs The Duke of York: And for his Sitting in the Council of Scotland Without taking the ſaid OATH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in Year 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50519:2"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:50519:2"/>
+            <!-- PDF PAGE 43 -->
+            <head>
+               <hi>REASONS</hi> Offered to His Majeſty for Diſpen<g ref="char:EOLhyphen"/>ſing with the <hi>Oath</hi> of <hi>Allegiance</hi> as to his Highneſs the Duke of <hi>York,</hi> and for his Sitting in the Council of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> without taking the ſaid <hi>Oath.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecauſe Firſt, It is certain that many poſitive Laws are diſpenſable, not only in Caſes not intended by the <hi>Legiſlators,</hi> which is the ordinary Interpretation of Equity, but alſo where the Law is moſt expreſs: this being that Relaxation of Law which many ſuperveni<g ref="char:EOLhyphen"/>ent conſiderations may plead for, and doth in effect as properly, and neceſſarily belong to His Majeſties Prerogative, and the due Adminiſtration of the Go<g ref="char:EOLhyphen"/>vernment, as the power of Execution, which ſome<g ref="char:EOLhyphen"/>times is thereby more advantagiouſly ſuperſeeded.</p>
+            <p>Secondly, It is from this unqueſtionable Prerogative of Diſpenſing, that all Reſpites, Remiſſions, ſpecial Priviledges, Immunities, Indulgences, <hi>Non obſtantes,</hi> and the like, do clearly flow: Theſe being as obviouſly given without, nay, contrary to the precept of Law, as they are known every where to be the moſt peculiar and reſerved Marks of Soveranity.</p>
+            <p>Thirdly, Of theſe many Laws none known to be more diſpenſable than ſuch as do only enjoyn an Oath, or Subſcription for the greater publick ſecurity, in as much as His Majeſty, <hi>Tanquam hic ſolus ſuſtinens Perſonam et Authoritatem Civitatis,</hi> is the only party, and conſequently according to the undoubted priviledg of every party in whoſe favour any Law is con<g ref="char:EOLhyphen"/>ceaved and made, hath as abſolutly the right of Diſpenſing, as that of Exacting.</p>
+            <p>Fourthly, The Laws commonly judged Indiſpenſable are ſuch as either are ſimply Declarative, requiring no ſubſequent Execution, or concern the intereſt of particular parties; ſo as their Contravention may prove a Grie<g ref="char:EOLhyphen"/>vance or Nuſance, as <hi>Engliſh</hi> Lawyers term it. In which caſe no Diſpenſation can be validly granted without the ſaid parties conſent; but ſo it is, that the Act enjoyning the Oath of Allegiance is no ſuch Law, as is clear from its Tenor, and therefore not Indiſpenſable.</p>
+            <p>Fifthly, By the Fourth, and Seaventh Acts of the <hi>Parliament</hi> 1661; It is expreſly Statuted and Declared, and that upon the ground of His Ma<g ref="char:EOLhyphen"/>jeſties undoubted Prerogative, and our ancient Laws eſtabliſhing the ſame, That all publick Oaths concerning the Government of the Church or King<g ref="char:EOLhyphen"/>dom, do depend upon his Majeſties ſpecial Warrant and approbation: Now by all Law and reaſon in the World, the power of approving, diſproving, or diſpenſing are inſeparably connected.</p>
+            <p>Sixthly, The very Tenor of the Act for taking the Oath of Allegiance Act XI. <hi>Parliament</hi> 1661. obtruded in this caſe to his Highneſs, offereth a plain ſolution of the Queſtion, in as much as it is His Majeſty alone, with<g ref="char:EOLhyphen"/>out Concurrence of the States, conformable to His Royal Prerogative, who therein declares that he will be carefull that ſuch as he ſhall think fit to call to His Council ſhall be duly qualified, and that they ſhall give full aſſur<g ref="char:EOLhyphen"/>ance thereof by their publick Teſtimony: and all the part of the Eſtates in
+<pb facs="tcp:50519:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 44 -->that Act, is meerly to conſent for the Peoples Intereſt, whoſe liberty His Ma<g ref="char:EOLhyphen"/>jeſty would not impoſe upon without ſuch a conſent, that the Oath of Al<g ref="char:EOLhyphen"/>legiance ſhall be that publick Teſtimony: So that it is manifeſt, that by that Act His Majeſties ſole Prerogative of either approving or diſpenſing with this Oath of Allegiance, or any other of that nature, is rather eſtabliſh<g ref="char:EOLhyphen"/>ed than in the leaſt impeached.</p>
+            <p>Seventhly, His Highneſs is not ſo much as Comprehended or concerned in the very terms of the Act; foraſmuch as the Act is only made for ſuch as His Majeſty ſhall nominate to be of His Privy Council: which clearly imports that the Act was only intended for ſuch as having no other right than his Majeſties Call and Nomination to enter in Council, might very juſtly be required to give the foreſaid evidence of their Loyalty: But as to his Highneſs, whoſe Royal Blood, Birth and Breath, do alſo Nearly, and mightily Oblidge Him, and aſſure His perpetual Loyalty; It is very evident that to demand of him this Teſt, would not be more derogatory to His Royal dignity than contrary to the very intention of the Act. And thus every where it is obſerved, That Princes of the Blood are exempted from all ſuch Oaths.</p>
+            <p>Eighthly, This ſame Act impowers His Majeſties Council to require or forbear all other Perſons, as to the taking of this Oath, as they ſhould think fit: And ſhall ſo much be put in the Councils power, and yet His Majeſties power to forbear His only Brother, Controverted?</p>
+            <p>Ninthly, All Hiſtories almoſt tell us that the diſpenſing with Oaths of this nature hath ever been judged the Prerogative of Princes; wherein they have ſome times gone ſo far, as for the more ſignal acknowledgment of ſome particular Perſons fidelity, to grant them the priviledge of being ad<g ref="char:EOLhyphen"/>mitted both Witneſſes and Jurours, <hi>etiam Injurati:</hi> how much more then ought His Majeſties pleaſure in the caſe in hand be received as an abſolute determination.</p>
+            <p>Tenthly, His Majeſty by vertue of His Royal Prerogative hath in favour of <hi>Nonconformiſts</hi> diſpenſed with a great many and moſt poſitive Acts of <hi>Parliament</hi> made for <hi>Conformity</hi> and againſt <hi>Nonconformiſts:</hi> With what colour then can His Majeſties Prerogative in this caſe of his Royal High<g ref="char:EOLhyphen"/>neſs, every way infinitly more favourable, in the leaſt be called in queſtion? Neither can it be ſaid, that by the ſame Acts power is given to His Majeſty to ſuſpend their Execution, in reſpect that it is evident that His power of ſuſpending is only expreſſed in two particular Acts, and as to the ſpecial Pains therein contained; but hath no reference to any other Acts and things with which his Majeſty hath been pleaſed to diſpenſe, as ſaid is, in behalf of that People. <hi>2dly.</hi> It is yet more apparent, that the reference made in the ſaid Acts to His Majeſty for continuing or diſcontinuing the ſame, is not done by way of any addition to His Majeſties power and Prerogative Roy<g ref="char:EOLhyphen"/>al: But clearly on the ſuppoſition, that as the Execution ſo the Suſpenſion or Diſpenſation with all ſuch Acts appertains to His Majeſty, as an inhe<g ref="char:EOLhyphen"/>rent and unqueſtionable Prerogative of the Crown; ſo that this reference here expreſſed doth rather import the ſame to be in every ſuch Act naturally implied.</p>
+            <p>Eleventhly, It is notoriouſly known, that even Magiſtrates of <hi>Edinburgh</hi> have been Connived at by the Council as to theſe Oaths, albeit they be clearly included in the Statute; How much leſs then can His Majeſties Pre<g ref="char:EOLhyphen"/>rogative of diſpenſing therewith be called in queſtion?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
